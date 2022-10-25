@@ -30,7 +30,7 @@
     },
 
     {
-        "id":"03",
+        "id":"04",
         "image": "https://www.researchgate.net/profile/Frank-Nielsen-3/publication/327802249/figure/fig1/AS:716609991766017@1547864544995/Overview-of-Visual-Computing.png",
         "title": "Graphics and visual computing.",
         "details":"Graphics and Visual Computing is the open access sister journal of Computers & Graphics. Graphics and Visual Computing offers authors with high-quality research who want to publish in a gold open access journal the opportunity to make their work immediately, permanently, and freely accessible. Graphics and Visual Computing authors will pay an article publishing charge (APC), have a choice of license options, and retain copyright. Please check the APC on the journal home page. As an introductory offer for this journal Elsevier will pay the APC and you can publish free of charge. As this title is newly launched, it does not have a CiteScore or Journal Impact Factor yet, however we will apply for inclusion in all the relevant indexing databases as soon as possible. Graphics and Visual Computing have a unified editorial team who manages rigorous peer-review for both titles using the same submission system. The author's choice of journal is blinded to referees, ensuring the editorial process is identical.For more information please refer to our FAQs for authors",
@@ -39,10 +39,19 @@
         "admit-lastDate":"30 October 2022"
     },
     {
-        "id":"03",
+        "id":"05",
         "image": "https://www.analyticssteps.com/backend/media/thumbnail/3241914/7830629_1623925422_computer%20interactionArtboard%201.jpg",
         "title": "Human-computer interaction.",
         "details":"The world of computing has evolved really fast with passing time. From data centres, we moved to the cloud, then to the edge and we are sure that much more is still going to come. We got introduced to 3D printing and virtual and augmented reality applications, some of which completely changed our lives. As discussing augmented reality, learn top trends in AR.From the AI assistant on our phones to that speaker looking thing that can turn off the lights of your room on one single command of yours, technology has no barriers nowadays. But in between this technical revolution we must admit that the interaction and communications with technology is not always that easy, remember getting annoyed because of your phone’s autocorrect feature? That’s what I am talking about. ",
+        "course-duration": "6 month",
+        "batch":"05",
+        "admit-lastDate":"30 October 2022"
+    },
+    {
+        "id":"06",
+        "image": "https://miktysh.com.au/wp-content/uploads/2019/04/Information-Management.jpg",
+        "title": "Information management.",
+        "details":"Information management (IM) concerns a cycle of organizational activity: the acquisition of information from one or more sources, the custodianship and the distribution of that information to those who need it, and its ultimate disposal through archiving or deletion.This cycle of information organisation involves a variety of stakeholders, including those who are responsible for assuring the quality, accessibility and utility of acquired information; those who are responsible for its safe storage and disposal; and those who need it for decision making. Stakeholders might have rights to originate, change, distribute or delete information according to organisational information management policies.",
         "course-duration": "6 month",
         "batch":"05",
         "admit-lastDate":"30 October 2022"
