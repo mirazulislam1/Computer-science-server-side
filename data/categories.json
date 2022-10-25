@@ -1,9 +1,18 @@
 [
     {
         "id":"01",
-        "image": "https://miro.medium.com/max/1400/1*X1hZCxNdfgZ0sT_2tynPKA.png",
+        "image": "https://adrianmejia.com/images/time-complexity-examples.png",
         "title": "How to find time complexity of an algorithm?",
         "details":"Finding out the time complexity of your code can help you develop better programs that run faster. Some functions are easy to analyze, but when you have loops, and recursion might get a little trickier when you have recursion. After reading this post, you are able to derive the time complexity of any code.In general, you can determine the time complexity by analyzing the program’s statements (go line by line). However, you have to be mindful how are the statements arranged. Suppose they are inside a loop or have function calls or even recursion. All these factors affect the runtime of your code. Let’s see how to deal with these cases.",
+        "course-duration": "6 month",
+        "batch":"05"
+    },
+
+    {
+        "id":"02",
+        "image": "https://i.ytimg.com/vi/Ol8D69VKX2k/maxresdefault.jpg",
+        "title": "Introduction to Computer Organization and Architecture",
+        "details":"Computer architecture deals with the design of computers, data storage devices, and networking components that store and run programs, transmit data, and drive interactions between computers, across networks, and with users.",
         "course-duration": "6 month",
         "batch":"05"
     }
